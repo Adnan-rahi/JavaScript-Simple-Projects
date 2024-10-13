@@ -1,0 +1,1 @@
+For practice purpose and enhanced my JavaScript skills my going to create small projects and for that i created this github repo to safely save my work. and might be this repo is useful for other learner
